@@ -1,0 +1,3 @@
+﻿  network.c
+C:\dev\me\Jwatrio\jwatrio-server\network.c(48,1): warning C4716: 'screenStartNetwork': 값을 반환해야 합니다.
+  jwatrio-server.vcxproj -> C:\dev\me\Jwatrio\jwatrio-server\x64\Debug\jwatrio-server.exe
